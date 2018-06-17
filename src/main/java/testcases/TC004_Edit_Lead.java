@@ -17,7 +17,7 @@ public class TC004_Edit_Lead extends ProjectMethods{
 		testDescription="login and logout in LeafTaps Application";
 		testNodes="Leads";
 		category="Smoke";
-		authors="Hrushikesh";
+		authors="Hrushikesh Mohapatra";
 		browserName="chrome";
 		dataSheetName="TC004";
 	}
